@@ -29,3 +29,6 @@ Screenshot of the structure:
 ## Interaction and Presentation Options
 There are four parts to this web. The first part is an interactive pie chart that displays the number of players who made into the world ranking list by country (top 10 country only). You can use the dropdown menu to select either to display man single or woman single players. The second part is a searching program that allows you to use the dropdown menu to select a player’s name abbreviation and see his or her personal information. The third part is a static bar chart that displays the number of players who made into the world ranking (single player) by gender. The last scatter plot displays the age spread of the players who made into the world ranking list (single player). You can use the drop-down menu to display age spread by gender.
 Technology used: Plotyl, Dash
+
+## Video Demo Link
+https://vimeo.com/781203371
